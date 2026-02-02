@@ -1,3 +1,13 @@
-<head>
-    <meta charset="UTF-8">
-</head>
+<header>
+    <div class="header">
+
+        <div class="headerLeft">
+            <p>logo</p>
+        </div>
+
+        <div class="headerRight">
+            <p>uitlogknop</p>
+        </div>
+
+    </div>
+</header>
